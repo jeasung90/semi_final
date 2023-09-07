@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 <style>
     .outer{
-       background-color: #f8f9fa; 
+       background-color: #eff0f0; 
         border-radius: 30px;
         color: black;
         width:1000px;
@@ -26,7 +26,7 @@
 
 <div class="outer" align="center">
         <br>
-        <h2 align="center">공지사항 상세보기</h2>
+        <h2 align="center">Q&A 상세보기</h2>
         <br>
 
         <table id="detail-area" border="1">

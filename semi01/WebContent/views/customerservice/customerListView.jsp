@@ -11,8 +11,8 @@
         /* 바디 시작 */
                /* 바디 메인 */
                .원하는데로_바꾸세요{
-            border: 1px solid lightgray;
-            background-color: #f8f9fa; 
+                background-color: #edeeef; 
+            background-color: #ebeded; 
             height: 900px;
             width: 100%;
         }
@@ -57,6 +57,7 @@
             float:right;
         }
         #bodyright{
+        	/* background-color:white; */
             width: 100%;
             height:100%;
             /*width:50%;
@@ -107,6 +108,7 @@
         #bson{
             border: 1px solid white;
             border-radius: 10px;
+            background-color:white;
             width: 98%;
             height:90%;
             float:left;
@@ -185,7 +187,7 @@
 	            <p>[회원할인] 브론즈 1% 할인<br>
 				   [회원할인] 실버 5% 할인<br>
 				   [회원할인] 골드 10% 할인<br>
-	               [회원할인] 마스터 15% 할인</p> 
+	               [회원할인] 마스터 15% 할인</p>
 	        </div>
 	        
 	    </div>

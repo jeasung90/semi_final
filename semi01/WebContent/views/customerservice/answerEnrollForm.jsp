@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <style>
     .outer{
-        background-color: #f8f9fa; 
+        background-color: #edeeef; 
         border-radius: 30px;
         color: black;
         width:1000px;
@@ -27,7 +27,7 @@
 	<%@ include file = "../common/header.jsp" %>
 		<div class="outer" align="center">
         <br>
-        <h2 align="center">Q&A 작성하기</h2>
+        <h2 align="center">Q&A 답변 작성하기</h2>
         <br>
 
         <form action="<%= contextPath %>/insert.ao" id="enroll-form" method="post">

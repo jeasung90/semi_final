@@ -15,7 +15,7 @@
                /* 바디 메인 */
                .원하는데로_바꾸세요{
             border: 1px solid lightgray; 
-            background-color: #f8f9fa;
+            background-color: #edeeef; 
             height: 900px;
             width: 100%;
         }
@@ -51,7 +51,7 @@
             height: 99.3px;
             border: 0.3px solid gray;
         }
-        
+       
         /*qna 메뉴창 클릭시 css값*/
         #qnamenu>p{
             display: none;
@@ -135,7 +135,7 @@
 	            <div onclick="location.href='<%=contextPath %>/customer.cu'" class="lm">고객센터 홈</div>
 	            <div onclick="location.href='<%=contextPath %>/list.no';" class="lm">공지사항</div>
 	            <div id="qnamenu" style="color:red" class="lm">Q&A </div>
-	       
+	            
 	        
 	    </div>        
         <!-- 바디의 오른쪽메뉴-->

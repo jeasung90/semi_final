@@ -15,7 +15,7 @@
                /* 바디 메인 */
                .원하는데로_바꾸세요{
                 border: 1px solid lightgray; 
-           background-color: #f8f9fa; 
+                background-color: #edeeef; 
             height: 900px;
             width: 100%;
         }
@@ -47,7 +47,7 @@
             margin-top: 5px;
             float:left;
         }
-
+		/*body leftmenu 메뉴칸*/
         .원하는데로_바꾸세요 .leftmenu div{
             width:100%;
             height: 99.3px;
@@ -139,7 +139,7 @@
         
         </div>
         <%} %>
-            
+            <!-- 바디 오른쪽 공지글 테이블 -->
             <table class="rightmain">
                 <thead>
                 <tr id="tr1">
